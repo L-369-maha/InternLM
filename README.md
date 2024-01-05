@@ -1,2 +1,2 @@
 # InternLM
- 大模型
+ LLM
